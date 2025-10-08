@@ -1,3 +1,4 @@
+Link dự án: https://drive.google.com/drive/folders/1NUhHlPT9U0ad_lqDs8VSPY5CE68H4pzJ?usp=drive_link
 # ChatbotAI
 Dự án chatbot local dùng để hỏi đáp và truy xuất dữ liệu nội bộ trong tổ chức
 - Ưu điểm:
