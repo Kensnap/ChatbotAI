@@ -1,6 +1,7 @@
 # ChatbotAI
 Dự án chatbot local dùng để hỏi đáp và truy xuất dữ liệu nội bộ trong tổ chức
 - Ưu điểm:
++ Chạy local
 + Tính bảo mật cao
 + Độ chính xác của thông tin cao
 + tiết kiệm chi phí
