@@ -16,7 +16,7 @@ Dự án chatbot local dùng để hỏi đáp và truy xuất dữ liệu nội
 **Hướng dẫn sử dụng:
 **
 
-B1: tải tất cả dữ liệu về
-B2: thêm dữ liệu của tổ chức ở thư mục data
-B3: chạy code trong file prepare_vector_db.ipynb để tạo vectorstore
-B4: Vào QAchatbot.ipynb tạo prompt và bắt đầu tra cứu
+- B1: tải tất cả dữ liệu về
+- B2: thêm dữ liệu của tổ chức ở thư mục data
+- B3: chạy code trong file prepare_vector_db.ipynb để tạo vectorstore
+- B4: Vào QAchatbot.ipynb tạo prompt và bắt đầu tra cứu
